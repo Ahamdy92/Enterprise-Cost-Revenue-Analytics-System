@@ -1,0 +1,4 @@
+Excel
+Power Bi
+pandas
+numpy
